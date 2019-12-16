@@ -1,0 +1,12 @@
+:root {
+  --main-color: #626262;
+  --font-header-color: #03a9f4;
+}
+
+.header-page .header-menu-lifestyle {
+  color: var(--font-header-color);
+}
+
+body {
+  color: var(--main-color);
+}
