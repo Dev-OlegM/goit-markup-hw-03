@@ -9,4 +9,9 @@
 
 body {
   color: var(--main-color);
+  font-family: 'Playfair Display';
+}
+
+section .head {
+  font-family: Ubuntu;
 }
