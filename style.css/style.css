@@ -3,7 +3,8 @@
   --font-header-color: #03a9f4;
 }
 
-.header-page .header-menu-lifestyle {
+.header-page .header-menu:hover,
+.header-page .header-menu:focus {
   color: var(--font-header-color);
 }
 
